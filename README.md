@@ -2,7 +2,7 @@
 
 If you are looking for an extremely fast and easy to use Twitch VOD downloader, this is your tool!
 
-[![Deploy]https://github.com/chargedpika/TwitchLeecher
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ![Twitch Leecher Screenshot](http://www.fakesmilerevolution.com/files/fsr/twitchleecher/tl14.jpg)
 
