@@ -1,0 +1,8 @@
+{
+  "name": "charge's twitch ripoff",
+  "description": "YEET",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/chargedpika/TwitchLeecher",
+  "keywords": ["node-noblocker", "gfw-breaker"],
+  "website": "https://github.com/gfw-breaker"
+}
